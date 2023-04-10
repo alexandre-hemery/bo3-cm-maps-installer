@@ -1,5 +1,6 @@
 # Black Ops III - Custom Zombies Maps Installer
 Welcome everyone! I have created a small tool entirely coded in Python that allows players who do not have Steam to automatically download and install custom maps that are available on the Steam Workshop!
+
 You can download the latest version here : [Version 1.1](https://github.com/alexandre-hemery/bo3-cm-maps-installer/releases/tag/release-1.1)
 
 This small tool does not work alone, in order to run it properly you will first need to download Python which you can get at this address: [Python](https://www.python.org/downloads/)
