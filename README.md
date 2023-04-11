@@ -17,6 +17,3 @@ On the tool, you can find a button to take you directly to the Black Ops III Wor
 ![Screenshot of the tool, showing the different buttons.](https://i.imgur.com/VmPqSCM.png)
 
 Feel free to give me your suggestions to potentially improve the tool! And also let me know of any bugs you encounter!
-
-### For the backstory
-This is my first 'serious' coding project. Before this, I used to just have fun modifying web pages using the element inspector (like everyone else lol) but here we are! This project was born from a Discord call with friends who found the manual installation process of maps quite redundant, so I decided to spend an entire afternoon trying to create a tool that would automate it all! And seeing that the project was going well, I decided to put it online here to benefit everyone! Of course, I will continue to add features and fix bugs as best I can! I want this tool to be useful for anyone who needs it!
