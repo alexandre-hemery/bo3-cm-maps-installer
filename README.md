@@ -1,3 +1,5 @@
+# The development of this application is suspended until further notice due to Activision's recent decisions regarding custom servers in their games.
+
 # Black Ops III - Custom Zombies Maps Installer
 Welcome everyone! I have created a small tool entirely coded in Python that allows players who do not have Steam to automatically download and install custom maps that are available on the Steam Workshop!
 
